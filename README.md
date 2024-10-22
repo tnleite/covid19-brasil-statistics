@@ -21,8 +21,8 @@ O projeto exemplifica o uso de ferramentas como **Pandas**, **Matplotlib** e **S
 
 ## 🗂️ Estrutura do Repositório
 Este repositório está organizado da seguinte forma:
-- **01_Base_de_Dados**: Contém os arquivos de dados brutos utilizados para análise, incluindo detalhes de faturamento, clientes e equipamentos.
-- **02_Dashboard**: Contém o arquivo do dashboard em Excel, pronto para uso.
+- **01_Base_de_Dados**: Contém os arquivos de dados brutos utilizados para análise.
+- **02_Analise**: Contém o arquivo Jupyter com a análise.
 - **03_Recursos**: Contém recursos utilizados no projeto.
 
 ## 🔍 Estrutura do Projeto
