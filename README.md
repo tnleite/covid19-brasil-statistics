@@ -43,7 +43,7 @@ Para explorar a análise, você pode seguir uma das opções abaixo:
 
 1. **Visualização Direta no GitHub**:
    - Vá até a pasta **02-Analise** e abra o arquivo **Jupyter Notebook** diretamente no GitHub para visualizar a análise sem precisar baixar.
-   - [Clique aqui para acessar a pasta de análise](02-Analise/covid19-brazil-analysis.ipynb).
+   - [Clique aqui para acessar a pasta de análise](02-Analise/projeto_estatistica.ipynb).
 
 2. **Download do Notebook**:
    - Caso a visualização no GitHub não funcione adequadamente ou prefira trabalhar localmente, você pode baixar o arquivo que está no caminho anterior.
