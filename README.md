@@ -62,12 +62,14 @@ Para explorar a análise, você pode seguir uma das opções abaixo:
 ## 🏗️ Arquitetura e Fluxo de Análise
 <img src="03-Recursos/arquitetura_dados.png">
 
-O fluxo de análise no projeto segue a seguinte estrutura:
+O fluxo de análise do projeto segue a estrutura abaixo:
 
-1. **Coleta de Dados**: Dados abertos de COVID-19 no Brasil, com informações diárias de casos confirmados e mortes por estado.
-2. **Manipulação e Limpeza de Dados**: Utilizamos a biblioteca Pandas para limpar, formatar e preparar os dados, removendo valores inconsistentes e tratando dados ausentes.
-3. **Visualização Gráfica**: Criamos gráficos descritivos e temporais utilizando Matplotlib e Seaborn para ilustrar as tendências e padrões presentes no dataset.
-4. **Decomposição e Estacionariedade**: Verificamos a tendência e a sazonalidade das séries temporais, além de aplicar transformações como log para garantir a estacionariedade.
+1. **Coleta de Dados**: Utilizamos dados abertos sobre a COVID-19 no Brasil, contendo informações diárias de casos confirmados e mortes por estado.
+2. **Manipulação e Limpeza de Dados**: Utilizamos a biblioteca **Pandas** para limpar, formatar e preparar os dados, removendo valores inconsistentes e tratando dados ausentes.
+3. **Visualização Gráfica**: Criamos visualizações descritivas e temporais com **Matplotlib** e **Seaborn**, destacando padrões e tendências presentes no dataset.
+4. **Análise Temporal**: Aplicamos decomposição de séries temporais, verificando componentes de tendência, sazonalidade e resíduos, além de transformações como log para garantir a estacionariedade.
+5. **Insights**: A partir das análises visuais e temporais, geramos insights que contribuem para o entendimento da evolução da pandemia no Brasil.
+
 
 ## 📈 Impacto e Resultados
 
